@@ -8,16 +8,16 @@ Welcome to the SaasLaunchpad! This project is designed to help you quickly build
 
 ## Key Features
 
-- Animated marketing landing page (`/`)
-- Pricing page (`/pricing`) integrated with Stripe Checkout
-- User and team management dashboard with CRUD operations
-- Role-based access control (RBAC) with Owner and Member roles
-- Stripe Customer Portal for subscription management
-- Social authentication using **NextAuth.js**
-- Middleware for route protection and schema validation
-- User activity logging
-- Email templates using **Nodemailer**
-- Push notifications via **Firebase** and **OneSignal**
+- 🏠 Animated marketing landing page (`/`)
+- 💳 Pricing page (`/pricing`) integrated with Stripe Checkout
+- 🛠️ User and team management dashboard with CRUD operations
+- 🔒 Role-based access control (RBAC) with Owner and Member roles
+- 💼 Stripe Customer Portal for subscription management
+- 🔑 Social authentication using **NextAuth.js**
+- 🛡️ Middleware for route protection and schema validation
+- 📊 User activity logging
+- ✉️ Email templates using **Nodemailer**
+- 🔔 Push notifications via **Firebase** and **OneSignal**
 
 ## Technology Stack
 
